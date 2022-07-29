@@ -1,0 +1,5 @@
+#page-navigation {width: 100%;flex-direction: row;display: flex;align-items: center;justify-content: space-around;text-align: justify;}
+#previous-page {}
+#previous-page {margin-right: auto;url-encoded: true;}
+#next-page {}
+#next-page {margin-left: auto;url-encoded: true;}
