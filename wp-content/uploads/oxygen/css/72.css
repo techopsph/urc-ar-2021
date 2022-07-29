@@ -1,0 +1,25 @@
+#section-19-72 > .ct-section-inner-wrap {padding-top: 0;padding-bottom: 0;}
+#section-19-72 {border-top-width: 1px;border-top-color: #ee2741;border-top-style: none;width: 100%;border-right-style: none;border-bottom-style: none;border-left-style: none;}
+@media (max-width:479px) {#section-2-72 > .ct-section-inner-wrap {padding-top: 1em;padding-bottom: 1em;}}
+@media (max-width:479px) {#section-20-72 > .ct-section-inner-wrap {padding-top: 1em;padding-bottom: 1em;}}
+#div_block-4-72 {width: 40%;justify-content: center;}
+#div_block-5-72 {width: 60%;gap: 1em;}
+#div_block-15-72 {width: 10%;padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;text-align: left;align-items: center;justify-content: center;}
+#div_block-16-72 {width: 90%;padding-top: 0px;padding-bottom: 0px;align-items: flex-start;text-align: left;justify-content: center;padding-left: 10px;padding-right: 0px;margin-top: 0px;margin-left: 0px;margin-bottom: 0px;margin-right: 0px;}
+#div_block-22-72 {width: 40%;justify-content: center;}
+#div_block-24-72 {width: 60%;gap: 1em;}
+#div_block-27-72 {width: 10%;padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;text-align: left;align-items: center;justify-content: center;}
+#div_block-29-72 {width: 90%;padding-top: 0px;padding-bottom: 0px;align-items: flex-start;text-align: left;justify-content: center;padding-left: 10px;padding-right: 0px;margin-top: 0px;margin-left: 0px;margin-bottom: 0px;margin-right: 0px;}
+#div_block-34-72 {width: 10%;padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;text-align: left;align-items: center;justify-content: center;}
+#div_block-36-72 {width: 90%;padding-top: 0px;padding-bottom: 0px;align-items: flex-start;text-align: left;justify-content: center;padding-left: 10px;padding-right: 0px;margin-top: 0px;margin-left: 0px;margin-bottom: 0px;margin-right: 0px;}
+@media (max-width:991px) {#new_columns-3-72> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-21-72> .ct-div-block {width: 100% !important;}}
+#headline-7-72 {font-size: 2.5rem;color: #ee2741;}
+#headline-23-72 {font-size: 2.5rem;color: #ee2741;}
+#fancy_icon-10-72 {color: #f00;}
+#fancy_icon-10-72>svg {width: 25px;height: 25px;}
+#fancy_icon-28-72 {color: #f00;}
+#fancy_icon-28-72>svg {width: 25px;height: 25px;}
+#fancy_icon-35-72 {color: #f00;}
+#fancy_icon-35-72>svg {width: 25px;height: 25px;}
+#code_block-41-72 {width: 100%;}
