@@ -1,0 +1,41 @@
+#section-2-67 > .ct-section-inner-wrap {max-width: 100%;}
+#section-215-67 > .ct-section-inner-wrap {max-width: 100%;}
+#div_block-812-67 {position: relative;}
+.oxy-dynamic-list :is([data-id="div_block-7-67"], #incspec) {background-image: linear-gradient(90deg,#b8d6dd,#fadcda);border-radius: 20px;margin-bottom: 20px;margin-top: 0em;margin-right: 0em;margin-left: 0em;padding-right: 0em;padding-top: 0em;padding-bottom: 0em;padding-left: 0em;text-align: left;align-items: center;justify-content: space-between;}
+.oxy-dynamic-list :is([data-id="div_block-309-67"], #incspec) {background-image: linear-gradient(90deg,#ee2741,#ff6868);text-align: left;align-items: center;justify-content: center;width: 100%;border-bottom-left-radius: 20px;border-bottom-right-radius: 20px;min-height: 90px;padding-bottom: 1em;padding-top: 1em;padding-right: 1em;padding-left: 1em;}
+.oxy-dynamic-list :is([data-id="div_block-62-67"], #incspec) {text-align: center;align-items: flex-start;justify-content: center;margin-bottom: 1em;}
+#div_block-561-67 {width: 100%;text-align: left;align-items: flex-end;}
+.oxy-dynamic-list :is([data-id="div_block-1073-67"], #incspec) {text-align: center;align-items: flex-start;justify-content: flex-start;margin-bottom: 1rem;flex-direction: column;display: flex;margin-right: 1rem;width: 100%;}
+.oxy-dynamic-list :is([data-id="div_block-1376-67"], #incspec) {text-align: center;align-items: flex-start;justify-content: flex-start;margin-bottom: 1rem;flex-direction: column;display: flex;margin-right: 1rem;width: 100%;}
+.oxy-dynamic-list :is([data-id="div_block-1450-67"], #incspec) {text-align: center;align-items: flex-start;justify-content: flex-start;margin-bottom: 1rem;flex-direction: column;display: flex;margin-right: 1rem;width: 100%;}
+@media (max-width:991px) {.oxy-dynamic-list :is([data-id="div_block-7-67"], #incspec) {margin-left: 3rem;margin-right: 3rem;}}
+#headline-3-67 {font-size: 26px;}
+#headline-60-67 {font-size: 26px;}
+#headline-216-67 {font-size: 26px;}
+.oxy-dynamic-list :is([data-id="text_block-263-67"], #incspec) {font-weight: 700;color: #fff;font-family: "Montserrat";text-align: center;font-size: 13.5px;}
+.oxy-dynamic-list :is([data-id="text_block-274-67"], #incspec) {color: #fff;font-size: 11.5px;font-weight: 200;font-family: "Montserrat";text-align: center;}
+.oxy-dynamic-list :is([data-id="text_block-102-67"], #incspec) {font-weight: 800;font-family: "Montserrat";text-align: left;}
+.oxy-dynamic-list :is([data-id="text_block-104-67"], #incspec) {text-align: left;}
+.oxy-dynamic-list :is([data-id="text_block-1074-67"], #incspec) {font-weight: 800;font-family: "Montserrat";}
+.oxy-dynamic-list :is([data-id="text_block-1076-67"], #incspec) {text-align: left;}
+.oxy-dynamic-list :is([data-id="text_block-1377-67"], #incspec) {font-weight: 800;font-family: "Montserrat";}
+.oxy-dynamic-list :is([data-id="text_block-1379-67"], #incspec) {text-align: left;}
+.oxy-dynamic-list :is([data-id="text_block-1451-67"], #incspec) {font-weight: 800;font-family: "Montserrat";}
+.oxy-dynamic-list :is([data-id="text_block-1453-67"], #incspec) {text-align: left;}
+#text_block-816-67 {margin-left: auto;margin-top: 1.5em;}
+.oxy-dynamic-list :is([data-id="image-261-67"], #incspec) {border-top-left-radius: 20px;border-top-right-radius: 20px;}
+#image-5-67 {margin-top: 1em;margin-bottom: 1em;position: absolute;bottom: 0px;left: 0px;}
+#image-64-67 {width: 320px;}
+#image-223-67 {width: 435px;}
+@media (max-width:991px) {.oxy-dynamic-list :is([data-id="image-261-67"], #incspec) {width: 100%;height: auto;}}
+#_dynamic_list-6-67 {wp-query-advanced-preset: Custom Settings;display: flex;text-align: center;flex-direction: row;justify-content: center;align-items: flex-start;gap: 1.5rem;padding-left: 3rem;padding-right: 3rem;}
+#_dynamic_list-61-67 {wp-query-advanced-preset: Custom Settings;display: flex;text-align: center;flex-direction: column;align-items: flex-start;justify-content: flex-start;height: 400px;}
+#_dynamic_list-1072-67 {wp-query-advanced-preset: Custom Settings;display: flex;text-align: center;align-items: stretch;flex-direction: column;justify-content: flex-start;}
+#_dynamic_list-1375-67 {wp-query-advanced-preset: Custom Settings;display: flex;text-align: center;align-items: stretch;flex-direction: column;justify-content: flex-start;}
+#_dynamic_list-1449-67 {wp-query-advanced-preset: Custom Settings;display: flex;text-align: center;align-items: stretch;flex-direction: column;justify-content: flex-start;}
+@media (max-width:991px) {#_dynamic_list-61-67 {height: 100%;}}
+#_dynamic_list-6-67 .oxy-repeater-pages {font-size: 12px;}
+#_dynamic_list-61-67 .oxy-repeater-pages {font-size: 12px;}
+#_dynamic_list-1072-67 .oxy-repeater-pages {font-size: 12px;}
+#_dynamic_list-1375-67 .oxy-repeater-pages {font-size: 12px;}
+#_dynamic_list-1449-67 .oxy-repeater-pages {font-size: 12px;}
