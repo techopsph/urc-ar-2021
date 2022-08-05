@@ -3,9 +3,9 @@
 #section-150-65 > .ct-section-inner-wrap {padding-right: 0;padding-bottom: 75px;padding-left: 0;}
 #section-150-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/asset-board-governance-last-.png");background-size: 70% auto;background-repeat: no-repeat;min-height: 80vh;background-position: 100% 100%;}
 #section-403-65 > .ct-section-inner-wrap {padding-right: 0;padding-bottom: 75px;padding-left: 0;}
-#section-403-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/asset-accountability-audit.png");background-size: 40% auto;background-repeat: no-repeat;min-height: 80vh;background-position: 100% 100%;}
+#section-403-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/asset-accountability-audit.png");background-size: 30% auto;background-repeat: no-repeat;min-height: 80vh;background-position: 100% 100%;}
 #section-420-65 > .ct-section-inner-wrap {padding-right: 0;padding-bottom: 75px;padding-left: 0;}
-#section-420-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/asset-internal-audit.png");background-size: 40% auto;background-repeat: no-repeat;min-height: 80vh;background-position: 0% 80%;}
+#section-420-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/asset-internal-audit.png");background-size: 60% auto;background-repeat: no-repeat;min-height: 80vh;background-position: 0% 60%;}
 @media (max-width:479px) {#section-456-65 > .ct-section-inner-wrap {padding-bottom: 2px;}}
 #div_block-5-65 {width: 33.33%;}
 #div_block-6-65 {width: 33.34%;}
@@ -13,10 +13,13 @@
 #div_block-26-65 {width: 33.34%;}
 #div_block-55-65 {width: 33.33%;}
 #div_block-60-65 {width: 33.34%;}
+#div_block-498-65 {width: 100%;padding-left: 1.5em;padding-top: 1.5em;padding-right: 1.5em;padding-bottom: 1.5em;}
 #div_block-97-65 {width: 33.33%;}
 #div_block-102-65 {width: 33.34%;}
-#div_block-128-65 {width: 33.33%;}
-#div_block-132-65 {width: 33.34%;}
+#div_block-517-65 {width: 31%;}
+#div_block-518-65 {width: 69%;}
+#div_block-526-65 {width: 50%;padding-top: 0px;}
+#div_block-527-65 {width: 50%;padding-top: 0px;}
 #div_block-158-65 {width: 33.33%;}
 #div_block-161-65 {width: 33.34%;}
 #div_block-314-65 {width: 33.33%;}
@@ -25,9 +28,12 @@
 #div_block-215-65 {width: 20%;}
 #div_block-277-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/table-letter.png");background-size: contain;width: 100px;background-repeat: no-repeat;align-items: flex-start;flex-direction: column;display: flex;background-position: 0px 0px;}
 #div_block-239-65 {width: 33.33%;}
+#div_block-282-65 {width: 100%;}
 #div_block-283-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/table-letter.png");background-size: contain;width: 100px;background-repeat: no-repeat;align-items: flex-start;flex-direction: column;display: flex;background-position: 0px 0px;}
 #div_block-243-65 {width: 33.34%;}
+#div_block-289-65 {width: 100%;}
 #div_block-290-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/table-letter.png");background-size: contain;width: 100px;background-repeat: no-repeat;align-items: flex-start;flex-direction: column;display: flex;background-position: 0px 0px;}
+#div_block-295-65 {width: 100%;}
 #div_block-296-65 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/06/table-letter.png");background-size: contain;width: 100px;background-repeat: no-repeat;align-items: flex-start;flex-direction: column;display: flex;background-position: 0px 0px;}
 #div_block-182-65 {width: 33.33%;}
 #div_block-186-65 {width: 33.34%;}
@@ -37,6 +43,7 @@
 #div_block-373-65 {width: 33.34%;}
 #div_block-383-65 {width: 33.33%;}
 #div_block-385-65 {width: 33.34%;}
+#div_block-551-65 {width: 100%;padding-bottom: 0px;margin-bottom: 0px;}
 #div_block-405-65 {width: 33.33%;}
 #div_block-407-65 {width: 33.34%;}
 #div_block-422-65 {width: 33.33%;}
@@ -51,8 +58,10 @@
 @media (max-width:991px) {#new_columns-3-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-21-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-52-65> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-497-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-94-65> .ct-div-block {width: 100% !important;}}
-@media (max-width:991px) {#new_columns-123-65> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-516-65> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-525-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-151-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-308-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-213-65> .ct-div-block {width: 100% !important;}}
@@ -61,6 +70,7 @@
 @media (max-width:991px) {#new_columns-333-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-364-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-380-65> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-550-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-404-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-421-65> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-468-65> .ct-div-block {width: 100% !important;}}
@@ -98,23 +108,28 @@
 #headline-470-65 {margin-top: 1rem;font-size: 1rem;font-weight: 800;}
 #headline-477-65 {margin-top: 1rem;font-size: 1rem;font-weight: 800;}
 #text_block-88-65 {margin-top: 1em;}
+#text_block-133-65 {margin-top: 3em;}
 #text_block-162-65 {margin-bottom: 18rem;}
 #text_block-211-65 {margin-top: -1rem;}
-#text_block-229-65 {align-self: flex-end;margin-top: 1em;}
+#text_block-229-65 {align-self: flex-end;margin-top: 1em;font-size: 14px;}
 #text_block-252-65 {align-self: flex-end;margin-top: .2em;font-size: 12px;}
 #text_block-286-65 {align-self: flex-end;margin-top: .2em;font-size: 12px;}
 #text_block-293-65 {align-self: flex-end;margin-top: .2em;font-size: 12px;}
 #text_block-299-65 {align-self: flex-end;margin-top: .2em;font-size: 12px;}
+#text_block-428-65 {font-family: "Questrial";font-weight: 500;font-size: 18px;}
 #text_block-454-65 {margin-top: -1em;margin-bottom: 1em;}
 #_rich_text-116-65 {padding-bottom: 0px;}
 #_rich_text-361-65 {padding-top: 0px;}
 #_rich_text-374-65 {padding-top: 0px;}
 #_rich_text-378-65 {padding-top: 0px;}
+#_rich_text-542-65 {padding-top: 0px;margin-bottom: 0px;}
+#_rich_text-545-65 {padding-top: 0px;margin-bottom: 0px;margin-left: 1em;}
 #_rich_text-382-65 {padding-top: 0px;}
-#image-15-65 {align-self: flex-end;margin-top: -360px;margin-right: -60px;width: 50%;}
+#image-15-65 {align-self: flex-end;margin-top: -36%;margin-right: -60px;width: 60%;}
 #image-28-65 {align-self: flex-end;width: 50%;margin-top: -260px;margin-right: -60px;}
 #image-78-65 {position: static;width: 120%;bottom: 0px;left: 0px;max-width: 120%;margin-left: -20%;margin-top: 1em;}
-#image-107-65 {align-self: flex-end;width: 40%;margin-right: -60px;margin-top: -210px;}
+#image-107-65 {align-self: flex-end;width: 100%;margin-right:  \e;margin-top: 1em;margin-bottom: 1em;}
+#image-511-65 {align-self: flex-end;width: 40%;margin-right: -60px;margin-top: -210px;display: none;}
 #image-127-65 {position: static;bottom: 0px;left: 0px;margin-top: 1em;}
 #image-347-65 {margin-bottom: 1em;}
 #image-358-65 {margin-bottom: -100px;width: 120%;max-width: 120%;margin-left: -10%;}
@@ -126,12 +141,16 @@
 @media (max-width:479px) {#image-28-65 {width: 100%;margin-top: 0px;margin-right: 0px;}}
 @media (max-width:479px) {#image-78-65 {width: 100%;position: static;display: none;}}
 @media (max-width:479px) {#image-107-65 {width: 100%;position: static;margin-top: 0px;margin-right: 0px;}}
+@media (max-width:479px) {#image-511-65 {width: 100%;position: static;margin-top: 0px;margin-right: 0px;}}
 @media (max-width:479px) {#image-358-65 {margin-left: 0px;margin-bottom: 0px;width: 100%;}}
 @media (max-width:479px) {#image-363-65 {margin-top: 0px;margin-left: 0px;width: 100%;}}
 @media (max-width:479px) {#image-387-65 {width: 180%;}}
 @media (max-width:479px) {#image-484-65 {left: -5px;bottom: -32px;}}
 #code_block-83-65 {background-color: #f9dede;}
+#code_block-285-65 {padding-top: 0px;width: 100%;max-width: 100%;}
+#code_block-292-65 {width: 100%;}
+#code_block-298-65 {width: 100%;}
 #code_block-439-65 {width: 100%;}
-#code_block-450-65 {width: 100%;}
+#code_block-450-65 {width: 100%;font-size: 18px;}
 #code_block-459-65 {width: 100%;}
 #code_block-462-65 {width: 100%;}
