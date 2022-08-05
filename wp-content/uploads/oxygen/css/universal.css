@@ -135,7 +135,7 @@ a:hover {color: #af0017;text-decoration: underline;}
 @media (max-width: 991px) {.col-50 {width: 100%;}}
 .col-40 {width: 40%;}
 @media (max-width: 991px) {.col-40 {width: 100%;}}
-.col-30 {width: 30%;}
+.col-30 {width: 32%;padding-right: 21px;}
 @media (max-width: 991px) {.col-30 {width: 100%;}}
 .col-20 {width: 20%;}
 @media (max-width: 991px) {.col-20 {width: 100%;}}
@@ -178,7 +178,7 @@ a:hover {color: #af0017;text-decoration: underline;}
 .text-column {}
 .text-column-2 {column-count: 2;}
 .flex-no-gap {gap: 0 !important;}
-.content-heading-4 {margin-bottom: .5rem;font-size: 24px;color: #ee2741;}
+.content-heading-4 {margin-bottom: .5rem;font-size: 26px;color: #ee2741;}
 .content-subheading-1 {font-family: "Questrial";font-size: 1.66rem;}
 @media (max-width: 479px) {.content-subheading-1 {font-size: 14px;}}
 .content-subheading-2 {font-family: "Questrial";font-size: 1.458rem;}
@@ -199,10 +199,10 @@ a:hover {color: #af0017;text-decoration: underline;}
 	.hide-on-tablet:not(.ct-section):not(.oxy-easy-posts), .hide-on-tablet.oxy-easy-posts .oxy-posts, .hide-on-tablet.ct-section .ct-section-inner-wrap {display: none;}}
 @media (max-width: 767px) {.hide-on-tablet {}
 	.hide-on-tablet:not(.ct-section):not(.oxy-easy-posts), .hide-on-tablet.oxy-easy-posts .oxy-posts, .hide-on-tablet.ct-section .ct-section-inner-wrap {display: block;}}
-.text-red {color: #ee2741;font-size: 21px;margin-bottom: 1rem;}
+.text-red {color: #ee2741;font-size: 26px;margin-bottom: 1rem;}
 @media (max-width: 479px) {.text-red {font-size: 16px;}}
 .content-subheading-4 {font-family: "Questrial";font-size: 1rem;font-weight: 400;margin-bottom: .5rem;}
-.content-heading-7 {font-size: 1.208rem;margin-bottom: 1rem;}
+.content-heading-7 {font-size: 1.208rem;margin-bottom: 0rem;font-weight: 600;}
 .col-45 {width: 45%;}
 @media (max-width: 991px) {.col-45 {width: 100%;}}
 .col-55 {width: 55%;}
@@ -267,6 +267,7 @@ html {font-size: 24px;}
 @media (max-width: 1024px) {html {font-size: 14px;}}
 @media (max-width:767px) {html {font-size: 10px;}}
 p {margin-top: 0;}
+a {color: blue;}
 nav#primary-menu ul#menu-header li a {line-height: 1.1;text-align: center;}
 nav#primary-menu ul#menu-header {align-content: center;align-items: center;}
 .inner-page-hero, .flex-row {flex: 1 0 auto;}
