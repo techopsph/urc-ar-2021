@@ -9,6 +9,8 @@
 #section-84-19 > .ct-section-inner-wrap {padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}
 #section-101-19 > .ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 5rem;padding-left: 0;align-items: flex-end;}
 #section-101-19 {text-align: left;}
+#section-272-19 > .ct-section-inner-wrap {padding-right: 10%;padding-left: 10%;}
+#section-272-19 {background-image: url("https://techopsph.github.io/urc-ar-2021/wp-content/uploads/2022/08/president-ceo-grow-the-core.png");background-size: contain;background-repeat: no-repeat;min-height: 600px;background-position: 0px 100%;}
 @media (max-width:479px) {#section-2-19 > .ct-section-inner-wrap {padding-top: 34px;padding-right: 0;padding-bottom: 3px;}}
 @media (max-width:479px) {#section-30-19 > .ct-section-inner-wrap {padding-bottom: 18px;}}
 @media (max-width:479px) {#section-55-19 > .ct-section-inner-wrap {padding-top: 24px;padding-right: 2em;padding-bottom: 1px;padding-left: 2em;}}
@@ -37,8 +39,6 @@
 #div_block-256-19 {width: 100%;padding-bottom: 0px;}
 #div_block-218-19 {width: 50%;}
 #div_block-219-19 {width: 50%;}
-#div_block-291-19 {width: 50%;margin-left: -10%;margin-right: 5%;}
-#div_block-292-19 {width: 50%;margin-right: -10%;margin-left: 5%;}
 #div_block-262-19 {width: 100%;padding-bottom: 0px;}
 #div_block-241-19 {width: 50%;}
 #div_block-242-19 {width: 50%;}
@@ -80,13 +80,9 @@
 @media (max-width:767px) {#new_columns-206-19> .ct-div-block {width: 100% !important;}
 	#new_columns-206-19 {flex-direction: column;}}
 @media (max-width:991px) {#new_columns-252-19> .ct-div-block {width: 100% !important;}}
-#new_columns-252-19 {padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;margin-bottom: -1em;background-color: rgba(255,255,255,.5);}
+#new_columns-252-19 {padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;margin-bottom: -1em;}
 @media (max-width:767px) {#new_columns-217-19> .ct-div-block {width: 100% !important;}
 	#new_columns-217-19 {flex-direction: column;}}
-#new_columns-217-19 {background-color: rgba(255,255,255,.6);}
-@media (max-width:767px) {#new_columns-280-19> .ct-div-block {width: 100% !important;}
-	#new_columns-280-19 {flex-direction: column;}}
-#new_columns-280-19 {margin-top: -25%;z-index: -9999;}
 @media (max-width:991px) {#new_columns-261-19> .ct-div-block {width: 100% !important;}}
 #new_columns-261-19 {padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;margin-bottom: -1em;}
 @media (max-width:767px) {#new_columns-240-19> .ct-div-block {width: 100% !important;}
@@ -94,9 +90,6 @@
 @media (max-width:767px) {#new_columns-229-19> .ct-div-block {width: 100% !important;}
 	#new_columns-229-19 {flex-direction: column;}}
 @media (max-width:1400px) {#new_columns-252-19 {background-color: rgba(255,255,255,.5);}}
-@media (max-width:1400px) {#new_columns-280-19 {margin-top: -31%;}}
-@media (max-width:991px) {#new_columns-280-19 {margin-top: -30%;}}
-@media (max-width:767px) {#new_columns-280-19 {display: none;}}
 @media (max-width:479px) {#new_columns-4-19 {padding-right: 0px;margin-right: 0px;margin-left: 0px;padding-left: 0px;}}
 #headline-26-19 {font-size: 68px;}
 #headline-51-19 {font-size: 1.5rem;}
@@ -119,7 +112,5 @@
 #image-81-19 {width: 100%;}
 #image-102-19 {width: 510px;height: auto;}
 #image-156-19 {padding-top: 1rem;padding-right: 1rem;padding-bottom: 1rem;}
-#image-162-19 {position: relative;left: 0px;bottom: 0px;margin-right: auto;}
-#image-172-19 {margin-left: auto;margin-top: auto;right: 0px;bottom: 0px;}
 @media (max-width:479px) {#image-15-19 {width: 50%;-webkit-transform: scaleX(-1);transform: scaleX(-1);}}
 @media (max-width:479px) {#image-34-19 {width: 25%;-webkit-transform: scaleX(-1);transform: scaleX(-1);text-align: right;}}
