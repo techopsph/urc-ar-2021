@@ -178,7 +178,7 @@ a:hover {color: #af0017;text-decoration: underline;}
 .text-column {}
 .text-column-2 {column-count: 2;}
 .flex-no-gap {gap: 0 !important;}
-.content-heading-4 {margin-bottom: .5rem;font-size: 26px;color: #ee2741;}
+.content-heading-4 {font-size: 26px;color: #ee2741;}
 .content-subheading-1 {font-family: "Questrial";font-size: 1.66rem;}
 @media (max-width: 479px) {.content-subheading-1 {font-size: 14px;}}
 .content-subheading-2 {font-family: "Questrial";font-size: 1.458rem;}
@@ -240,7 +240,7 @@ a:hover {color: #af0017;text-decoration: underline;}
 .chairmans-sections-mobile:not(.ct-section):not(.oxy-easy-posts), .chairmans-sections-mobile.oxy-easy-posts .oxy-posts, .chairmans-sections-mobile.ct-section .ct-section-inner-wrap {display: flex;flex-direction: column;justify-content: flex-start;gap: 2em em;}
 @media (max-width: 479px) {.chairmans-sections-mobile {}}
 .text-column-3 {}
-.corp-gov-heading {margin-top: 1rem;font-weight: 800;font-size: 1rem;}
+.corp-gov-heading {font-weight: 800;font-size: 1rem;}
 .table-letter {background-image: linear-gradient(90deg,#a23593 50%,#d52c5c);color: #fff;padding-top: 2px;padding-right: 2px;padding-bottom: 0px;padding-left: 0px;border-top-right-radius: 6px;width: 21px;}
 .table-letter:not(.ct-section):not(.oxy-easy-posts), .table-letter.oxy-easy-posts .oxy-posts, .table-letter.ct-section .ct-section-inner-wrap {display: flex;flex-direction: row;align-items: center;justify-content: center;}
 .table-letter-end {background-image: linear-gradient(90deg,#a23593 50%,#d52c5c);color: #fff;width: 21px;text-align: center;padding-right: 2px;padding-bottom: 0px;padding-left: 0px;border-top-right-radius: 6px;border-top-color: #fff;border-right-color: #fff;border-bottom-color: #fff;border-left-color: #fff;border-bottom-left-radius: 90px;background-color: #fff;}
