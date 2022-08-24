@@ -8,16 +8,6 @@
 #div_block-34-39 {width: 33.34%;gap: 1em;}
 @media (max-width:991px) {#new_columns-21-39> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-30-39> .ct-div-block {width: 100% !important;}}
-#link_text-35-39 {url-encoded: true;}
-#link_text-39-39 {url-encoded: true;}
-#link_text-40-39 {url-encoded: true;}
-#link_text-43-39 {url-encoded: true;}
-#link_text-45-39 {url-encoded: true;}
-#link_text-46-39 {url-encoded: true;}
-#link_text-50-39 {url-encoded: true;}
-#link_text-53-39 {url-encoded: true;}
-#link_text-54-39 {url-encoded: true;}
-#link-16-39 {url-encoded: true;}
 @media (max-width:991px) {#link-16-39 {transform: translate(-50%,-50%);position: absolute;left: 50%;top: 50%;}}
 #site-logo {width: 140px;margin-right: auto;}
 #site-logo-footer {width: 300px;margin-right: auto;margin-left: 1rem;}
@@ -38,6 +28,8 @@
 #primary-menu .menu-item a {padding-left: 15px;padding-right: 15px;font-size: .75rem;color: #ee2741;}
 #primary-menu.oxy-nav-menu:not(.oxy-nav-menu-open) .menu-item a {justify-content: center;}
 #primary-menu.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;}
+#primary-menu.oxy-nav-menu:not(.oxy-nav-menu-open) .menu-item a:hover {justify-content: center;}
+#primary-menu.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;}
 @media (max-width:1400px) {#primary-menu.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;}}
 @media (max-width:991px) {#primary-menu {padding-right: 0px;padding-left: 0px;margin-left: 0px;margin-right: auto;}
 	#primary-menu.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;}}
