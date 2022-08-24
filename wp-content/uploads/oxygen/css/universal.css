@@ -155,7 +155,8 @@ a:hover {color: #af0017;text-decoration: underline;}
 @media (max-width: 991px) {.same-height {}
 	.same-height:not(.ct-section):not(.oxy-easy-posts), .same-height.oxy-easy-posts .oxy-posts, .same-height.ct-section .ct-section-inner-wrap {display: flex;flex-direction: column;}}
 .hero-image {width: 100%;}
-.hero-heading {color: #fff;z-index: 9999;margin-top: 10rem;}
+.hero-heading {color: #fff;z-index: 9999;margin-top: 1em;}
+@media (max-width: 1400px) {.hero-heading {}}
 @media (max-width: 479px) {.hero-heading {margin-top: 0px;margin-bottom: 10px;font-size: 3em;}}
 .hero-subheading {font-family: "Questrial";color: #fff;font-weight: 400;font-size: 34px;aos-enable: false;}
 @media (max-width: 479px) {.hero-subheading {font-size: 19px;}}
